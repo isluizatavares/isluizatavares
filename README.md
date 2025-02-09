@@ -124,7 +124,7 @@ Me chamo Luiza Tavares, tenho 26 anos e sou natural do Rio Grande do Sul. Conclu
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="195" 
+    height="190" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=isluizatavares&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
@@ -132,7 +132,7 @@ Me chamo Luiza Tavares, tenho 26 anos e sou natural do Rio Grande do Sul. Conclu
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="195" 
+      height="190" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=isluizatavares&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
