@@ -1,6 +1,4 @@
-# 👩🏻‍💻 isluizatavares 
-**``**
-
+# 👩🏻‍💻 isluizatavares | Técnica em Informática
 Me chamo Luiza Tavares, tenho 26 anos e sou natural do Rio Grande do Sul. Concluí o curso técnico em informática no Colégio Politécnico da UFSM. Apaixonada por arte e tecnologia, estou sempre em busca de novos aprendizados para crescer e evoluir a cada dia. Neste ano, estou focada em diversos projetos, tanto na área de design quanto no aprimoramento das minhas habilidades em programação, com o objetivo de conquistar meu primeiro emprego na área. Acredito que, com dedicação e aprendizado contínuo, estou cada vez mais perto de alcançar meus objetivos e fazer a diferença no que amo. Meu propósito é unir arte e tecnologia para criar soluções criativas e inovadoras, e estou pronta para transformar desafios em oportunidades e construir um caminho sólido na área.
 
 <p align="left">
@@ -21,6 +19,8 @@ Me chamo Luiza Tavares, tenho 26 anos e sou natural do Rio Grande do Sul. Conclu
 </p>
 
 ---
+
+<!--
 
 ### 🤖 Linguagens e Tecnologias
 
@@ -114,6 +114,7 @@ Me chamo Luiza Tavares, tenho 26 anos e sou natural do Rio Grande do Sul. Conclu
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" 
 />
+-->
 
 <br/>
 <br/>
