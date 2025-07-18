@@ -114,10 +114,11 @@ Me chamo Luiza Tavares, tenho 26 anos e sou natural do Rio Grande do Sul. Conclu
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" 
 />
+<br/>
+<br/>
+
 -->
 
-<br/>
-<br/>
 
 ### 📊 Estatísticas
 
