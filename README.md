@@ -117,9 +117,6 @@ Me chamo Luiza Tavares, tenho 26 anos e sou natural do Rio Grande do Sul. Conclu
 <br/>
 <br/>
 
--->
-
-
 ### 📊 Estatísticas
 
 <p>
@@ -139,3 +136,5 @@ Me chamo Luiza Tavares, tenho 26 anos e sou natural do Rio Grande do Sul. Conclu
   />
 
 </p>
+-->
+
